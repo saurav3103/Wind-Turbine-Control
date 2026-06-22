@@ -54,7 +54,6 @@ wind_turbine_control/
 │   ├── simulate_two_mass.py    # Two-mass simulation + plots
 │   └── simulate_observer.py    # Observer noise robustness study
 │
-├── notebooks/                  # Colab-compatible notebooks (step-by-step)
 ├── results/                    # Output figures saved here
 └── requirements.txt
 ```
