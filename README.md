@@ -56,6 +56,10 @@ wind_turbine_control/
 │
 ├── results/                    # Output figures saved here
 └── requirements.txt
+└── notebooks/
+    └── Wind_Turbines.ipynb     # Complete .ipynb notebook
+└── docs/
+    └── writeup.md              # Write up for detailed description
 ```
 
 ---
